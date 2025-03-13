@@ -6,7 +6,7 @@ INSTRUCTIONS: Ball Jump by using space button and ball move forwards by using 'D
 
 Game's file is more than 25MB, so it is unable to upload on Gibhub, so I uploaded this file to MediaFire
 
-![images alt]()
+![images alt](https://github.com/sarthakbansal2004/RED-BALL-GAME-DEVELOPED-BY-ME/blob/547cf990fc9b4ac8bada666b96140049199ba4b5/Capture.PNG)
 
 ![images alt]()
 
